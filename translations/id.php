@@ -35,7 +35,7 @@ $_MODULE['<{bankmandiri}prestashop>payment_execution_a0a93d5cc1b0ec71b322c6431d9
 $_MODULE['<{bankmandiri}prestashop>payment_execution_edd87c9059d88fea45c0bd6384ce92b9'] = 'Konfirmasi pembelian Anda dengan klik pada tombol \"Konfirmasi pembelian\".';
 $_MODULE['<{bankmandiri}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Konfirmasi pembelian';
 $_MODULE['<{bankmandiri}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Cara pembayaran lainnya';
-$_MODULE['<{bankmandiri}prestashop>infos_58482f4392252c3e4329d1853edc4ef0'] = 'Modul untuk menerima pembayaranran melalui Bank Mandiri.';
+$_MODULE['<{bankmandiri}prestashop>infos_58482f4392252c3e4329d1853edc4ef0'] = 'Modul untuk menerima pembayaran melalui Bank Mandiri.';
 $_MODULE['<{bankmandiri}prestashop>infos_e3bb2e4a240cc08285cd09c7909121a1'] = 'Jika pelanggan memilih membayar menggunakan Bank Mandiri, status pembelian akan berubah menjadi \'Menunggu pembayaran via Bank Mandiri\'';
 $_MODULE['<{bankmandiri}prestashop>infos_26793e0e9febb5e92adf1cb8b806713f'] = 'Dan jika pembayaran telah diterima, konfirmasi pembayaran harus dilakukan secara manual.';
 $_MODULE['<{bankmandiri}prestashop>payment_a8f03509e0e281f10b6e7b76633bae02'] = 'Bayar melalui Bank Mandiri';
