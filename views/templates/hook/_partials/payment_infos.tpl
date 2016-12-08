@@ -23,9 +23,14 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 
-<p class="payment_module">
-	<a href="{$link->getModuleLink('bankmandiri', 'payment')|escape:'html'}" title="{l s='Pay by Bank Mandiri' d='Modules.BankMandiri.Shop'}">
-		<img src="{$this_path_bw}logo.png" alt="{l s='Pay by Bank Mandiri' d='Modules.BankMandiri.Shop'}"/>
-		{l s='Pay by Bank Mandiri' d='Modules.BankMandiri.Shop'}&nbsp;<span>{l s='(order processing will be longer)' d='Modules.BankMandiri.Shop'}</span>
-	</a>
-</p>
+
+<dl>
+    <dt>{l s='Amount' mod='bankmandiri'}</dt>
+    <dd>{$total}</dd>
+    <dt>{l s='Name of account owner' mod='bankmandiri'}</dt>
+    <dd>{$bankmandiriOwner}</dd>
+    <dt>{l s='Please include these details' mod='bankmandiri'}</dt>
+    <dd>{$bankmandiriDetails}</dd>
+    <dt>{l s='Bank name' mod='bankmandiri'}</dt>
+    <dd>{$bankmandiriAddress nofilter}</dd>
+</dl>
