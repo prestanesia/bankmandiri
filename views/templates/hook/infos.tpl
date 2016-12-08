@@ -26,6 +26,6 @@
 <div class="alert alert-info">
 <img src="../modules/bankmandiri/logo.png" style="float:left; margin-right:15px;" height="60">
 <p><strong>{l s="This module allows you to accept secure payments by Bank Mandiri." d='Modules.BankMandiri.Admin'}</strong></p>
-<p>{l s="If the client chooses to pay by Bank Mandiri, the order's status will change to 'Waiting for Payment.'" d='Modules.BankMandiri.Admin'}</p>
+<p>{l s="If the client chooses to pay by Bank Mandiri, the order's status will change to 'Awaiting Bank Mandiri Payment.'" d='Modules.BankMandiri.Admin'}</p>
 <p>{l s="That said, you must manually confirm the order upon receiving the Bank Mandiri." d='Modules.BankMandiri.Admin'}</p>
 </div>
